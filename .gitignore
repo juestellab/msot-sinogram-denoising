@@ -1,0 +1,11 @@
+.idea
+*.asv
+
+**/__pycache__
+
+matlab_dataset_generation/set_parameters_for_test_data_generation.m
+matlab_dataset_generation/set_parameters_for_trainval_data_generation.m
+matlab_image_reconstruction/set_parameters_for_reconstruction.m
+
+set_locals/set_local_experiment_train_val.py
+set_locals/set_local_experiment_infer.py
