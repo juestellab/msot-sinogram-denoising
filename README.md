@@ -1,5 +1,5 @@
 # MSOT Sinogram Denoising
-Deep-learning-based denoising of optoacoustic sinograms.
+Deep-learning-based denoising of optoacoustic sinograms, developed in the Jüstel Lab, Institute for Biological and Medical Imaging at Helmholtz Zentrum München, Chair of Biological Imaging at Technische Universität München, and Institute of Computational Biology at Helmholtz Zentrum München.
 
 ## Prerequisites
 * For training and application of a denoising model, set up a python environment (v3.8 or higher) and install the following packages: `numpy`, `pytorch`, `tensorboard`, `medpy`, `natsort`.
