@@ -29,7 +29,7 @@ Note: The two data loading functions in the above-mentioned scripts (`loadMSOTsi
 ## Citation
 If you denoise optoacoustic sinograms with the source code in this repository, please cite this paper:
 ```
-Dehner, C., Olefir, I., Basak Chowdhury, K., Jüstel, D., and Ntziachristos, V., “Deep learning based electrical noise removal enables high spectral optoacoustic contrast in deep tissue”, arXiv e-print, 2021, https://arxiv.org/abs/2102.12960.
+C. Dehner, I. Olefir, K. B. Chowdhury, D. Jüstel and V. Ntziachristos, "Deep-learning-based electrical noise removal enables high spectral optoacoustic contrast in deep tissue," IEEE Transactions on Medical Imaging, doi: 10.1109/TMI.2022.3180115, https://ieeexplore.ieee.org/document/9787515.
 ```
 
 ## Contact
